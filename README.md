@@ -1,6 +1,8 @@
-# Mirko De Stefano
+# Mirko De Stefano - portfolio
 
-## projesct music video " 61 rpt "
+## project " 61 rpt "- music video
 ### storyboard 
 
-### animation 
+### 2d animation 
+
+## 
